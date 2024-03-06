@@ -10,7 +10,7 @@ assuming a threshold for the signal-to-noise ratio of **8**, and accompanied by 
 
 ## Credit
 
-If you use the mock data, please cite this paper:
+This mock data is released under a CC-BY 4.0 license. If you use the data, please cite:
 
   ```sh
    @article{canevarolo2023,
